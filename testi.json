@@ -1,0 +1,5 @@
+{
+  "username": "admin",
+  "password": "$2b$10$wT.1lIY6eFlb4Efv6gFh3O.zRtTOzTcyH4OhH5uT4v5X6t.jQaTjK", // This is 'password123' hashed
+  "role": "admin"
+}
