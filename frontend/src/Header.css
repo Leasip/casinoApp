@@ -1,0 +1,29 @@
+header {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a,
+nav ul li button {
+    text-decoration: none;
+    color: #007bff;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+nav ul li button:hover,
+nav ul li a:hover {
+    text-decoration: underline;
+}
